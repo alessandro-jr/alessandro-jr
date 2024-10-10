@@ -38,6 +38,11 @@
    <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=alessandro-jr&theme=noctis-minimus&hide_border=true" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-jr&layout=donut&langs_count=6&theme=noctis_minimus&hide_border=true"/> 
   </a>
+   <p align="center">
+  <a href="https://github.com/MateusS0ares">
+    <img src="https://komarev.com/ghpvc/?username=alessandro-jr&color=blueviolet&style=flat)" />
+  </a>
+</p>
 </div>
 
 ## Contatos:
